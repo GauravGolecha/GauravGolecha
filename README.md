@@ -1,7 +1,6 @@
-[![MasterHead](https://media1.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b7611123de2dee3afdef6d5ca2998c7c4db846ed40288&rid=giphy.gif&ct=g)](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)
 <h1 align="center">Hi 👋, I'm Gaurav Golecha</h1>
 <h3 align="center">A BE Student at RMDSSOE, Passionate about Python,Data Science,ML,AI and a Coding Enthusiast & I like to explore new things, enhancing and expanding my knowledge each and every day!.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgolecha&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgolecha" /> </p>
 
