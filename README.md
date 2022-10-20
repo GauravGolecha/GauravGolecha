@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)
+[![MasterHead](https://media1.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=790b7611123de2dee3afdef6d5ca2998c7c4db846ed40288&rid=giphy.gif&ct=g)](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP)
 <h1 align="center">Hi 👋, I'm Gaurav Golecha</h1>
 <h3 align="center">A BE Student at RMDSSOE, Passionate about Python,Data Science,ML,AI and a Coding Enthusiast & I like to explore new things, enhancing and expanding my knowledge each and every day!.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
