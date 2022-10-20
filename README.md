@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Golecha</h1>
 <h3 align="center">A BE Student at RMDSSOE, Passionate about Python,Data Science,ML,AI and a Coding Enthusiast & I like to explore new things, enhancing and expanding my knowledge each and every day!.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgolecha&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgolecha" /> </p>
 
