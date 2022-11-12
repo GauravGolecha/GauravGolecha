@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Data Science,Ml,AI**
 
-- 📄 Know about my experiences [https://bit.ly/resumegaurav](https://bit.ly/resumegaurav)
+- 📄 Know about my experiences [gauravgolecha](https://linktr.ee/gauravgolecha)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
